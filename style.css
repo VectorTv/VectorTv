@@ -1,0 +1,25 @@
+p.food {
+}
+p.dog{
+    border-bottom: 3px double red;
+}
+p.ball{margin: 25px 50px 75px 100px;
+}
+#mydiv { 
+    width:300px;
+margin-left:100px;
+border: 1px solid red;
+}
+p.goat {
+    margin-left: inherit;
+}
+div.bolu{
+    width: 300px;
+    background-color: blue;
+}
+div.ayo{
+    width: 20px; 
+    padding: 25px;
+    box-sizing: border-box;
+    background-color: yellow;
+}
